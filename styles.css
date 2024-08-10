@@ -1,17 +1,25 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  background-color: #E5E7EB;
   margin: 0;
 }
 
 .whole-page {
   height: 100vh;
   width: 100vw;
+  display: flex;
+  gap: 18px;
 }
 
 .whole-page > .left-page {
   background-image: url("/asset/cheng-feng-BP-Q-Z0Ua9Y-unsplash.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
-  height: 100%;
-  width: 40%;
+  /* height: 100%;
+  width: 40%; */
+  flex: 1;
+}
+
+.whole-page > .right-page {
+  flex: 1.5;
 }

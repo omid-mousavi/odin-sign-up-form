@@ -23,3 +23,25 @@ body {
 .whole-page > .right-page {
   flex: 1.5;
 }
+
+.icon-section {
+  background-color: rgba(0, 0, 0, 0.2);
+  position: relative;
+  top: 50px;
+  height: 150px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+.odin-lined-icon {
+  width: 20%;
+  height: auto;
+}
+
+.odin-text {
+  font-size: 4em;
+  letter-spacing: -8px;
+  color: white;
+}

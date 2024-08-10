@@ -7,3 +7,11 @@ body {
   height: 100vh;
   width: 100vw;
 }
+
+.whole-page > .left-page {
+  background-image: url("/asset/cheng-feng-BP-Q-Z0Ua9Y-unsplash.jpg");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 40%;
+}

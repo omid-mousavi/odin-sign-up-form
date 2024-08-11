@@ -70,3 +70,9 @@ body {
   gap: 8%;
   justify-content: start;
 }
+
+.input-section-right, .input-section-left {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}

@@ -64,3 +64,9 @@ body {
   font-size: calc(100vw / 85);
   opacity: 0.9;
 }
+
+.input-section {
+  display: flex;
+  gap: 8%;
+  justify-content: start;
+}

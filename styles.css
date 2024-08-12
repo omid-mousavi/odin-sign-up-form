@@ -4,7 +4,7 @@
 }
 
 body {
-  --default-font: 'Courier New', Courier, monospace;
+  --default-font: sans-serif, 'Courier New', Courier, monospace;
   font-family: var(--default-font);
   background-color: #E5E7EB;
   margin: 0;

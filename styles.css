@@ -42,6 +42,14 @@ body {
   font-size: calc(100vw / 70);
 }
 
+.second-paragraph {
+  margin-bottom: 6%;
+}
+
+form > div:last-child {
+  margin-top: 3%;
+}
+
 .header-with-input-section {
   background-color: #ffffff;
   padding: 2%;

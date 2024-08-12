@@ -33,9 +33,9 @@ body {
   margin: 60px 0;
 }
 
-.right-page > *:not(form) {
+.right-page > *:not(form), form > div:last-child {
   /* i used this instead of 18px gap, it selects all children and not form */
-  margin-left: 18px;
+  margin-left: 2%;
 }
 
 .right-page > p {

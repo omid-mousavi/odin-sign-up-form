@@ -40,6 +40,7 @@ body {
 
 .right-page > p {
   font-size: calc(100vw / 70);
+  font-weight: bold;
 }
 
 .second-paragraph {

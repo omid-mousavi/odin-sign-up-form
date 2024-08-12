@@ -38,6 +38,10 @@ body {
   margin-left: 18px;
 }
 
+.right-page > p {
+  font-size: calc(100vw / 70);
+}
+
 .icon-section {
   background-color: rgba(0, 0, 0, 0.2);
   position: absolute;

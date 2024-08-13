@@ -104,3 +104,14 @@ form > div:last-child {
   flex-direction: column;
   gap: 16px;
 }
+
+.submit-button {
+  width: 20%;
+  height: calc(100vw / 35);
+  background-color: #455c5a;
+  color: #ffffff;
+  font-size: calc(100vw / 100);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}

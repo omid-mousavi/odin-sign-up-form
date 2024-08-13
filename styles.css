@@ -104,7 +104,7 @@ form > div:last-child {
   flex-direction: column;
   gap: 16px;
 }
-
+/* button and inputs: */
 .submit-button {
   width: 20%;
   height: calc(100vw / 35);
@@ -115,3 +115,13 @@ form > div:last-child {
   border-radius: 10px;
   cursor: pointer;
 }
+
+input {
+  border: 1px solid #E5E7EB;
+  border-radius: 4px;
+}
+
+input:invalid {
+  border-color: #ff0000;
+}
+

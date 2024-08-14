@@ -38,6 +38,14 @@ body {
   margin-left: 2%;
 }
 
+.right-page > div:last-child {
+  margin-top: 3%;
+}
+
+.right-page > div:last-child > a {
+  text-decoration: none;
+}
+
 .right-page > p {
   font-size: calc(100vw / 70);
   font-weight: bold;
@@ -55,6 +63,7 @@ form > div:last-child {
   background-color: #ffffff;
   box-shadow: 6px 8px 4px rgb(0 0 0 / 6%);
   padding: 2%;
+  height: calc(100vh / 3.8);
 }
 
 .header-with-input-section > h2 {

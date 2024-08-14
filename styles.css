@@ -1,6 +1,6 @@
 @font-face {
   font-family: norse-bold;
-  src: url("/asset/Norse-Bold.otf");
+  src: url("asset/Norse-Bold.otf");
 }
 
 body {
@@ -18,7 +18,7 @@ body {
 }
 
 .whole-page > .left-page {
-  background-image: url("/asset/cheng-feng-BP-Q-Z0Ua9Y-unsplash.jpg");
+  background-image: url("asset/cheng-feng-BP-Q-Z0Ua9Y-unsplash.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
   /* height: 100%;

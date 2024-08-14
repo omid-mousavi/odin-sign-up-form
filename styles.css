@@ -63,7 +63,8 @@ form > div:last-child {
   background-color: #ffffff;
   box-shadow: 6px 8px 4px rgb(0 0 0 / 6%);
   padding: 2%;
-  height: calc(100vh / 3.8);
+  padding-bottom: 3.6%;
+  /* height: calc(100vh / 3.8); */
 }
 
 .header-with-input-section > h2 {
